@@ -9,7 +9,7 @@ Agentic AI Project
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
-2. Create the Virtual Environment 
+2. Create the virtual Environment 
 
 ```
 uv venv --python 3.11
